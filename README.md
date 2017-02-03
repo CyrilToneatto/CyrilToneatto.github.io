@@ -1,3 +1,3 @@
 # CyrilToneatto.github.io
 Cyril Toneatto
-JCDB
+Jean-Charles Verbeek
